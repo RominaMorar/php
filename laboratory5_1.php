@@ -4,7 +4,7 @@
    <title>Лабораорна5_1</title>
      <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Arial;
             margin: 20px;
         }
 
